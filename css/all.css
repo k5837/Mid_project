@@ -19,10 +19,11 @@ a{text-decoration: none;}
 .right{float:right;width: 660px;padding:20px}
 .left{min-height: 300px;width:480px;margin-left:30px;padding: 10px;}
 .content{clear:both;padding-bottom: 20px;font-size: 14px;display: block;color: #333;width:100%}
+.content .pad img{margin-left: 30px; margin-top: 30px;}
 .content1{clear:both;padding-bottom: 20px;font-size: 14px;display: block;color: #333; }
-.avc{font-size: 20px;line-height: 35px;margin-top: 0px;float: right;}
+.avc{font-size: 20px;line-height: 35px;margin-top: 20px;float: right;}
 .end{clear: both; background: #f49097c9; color: #fff;padding: 20px 0;text-align: center;}
-.produce img{margin:0 20px 20px 0}
+.produce img{margin:20px 20px 20px 20px}
 .produce{line-height: 30px;} */
 .pad{padding: 20px;display: block; margin-top: 30px;}
 .pics p{margin: 1px;text-align: center;}
